@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/twigpig/qBittorrentDarkWebUI:latest
+          tags: ghcr.io/twigpig/qbittorrent_darkwebui:latest
